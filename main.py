@@ -4,7 +4,6 @@ from telegram.utils.request import Request
 import telegram
 import subprocess
 import whisper
-from logmmse import logmmse_from_file
 import requests
 
 # Creating a bot object with token
