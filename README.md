@@ -6,6 +6,7 @@ Speech to Text Telegram bot using the Whisper AI model made by OpenAI.
 - Get around the 50MB download limit that the Telegram API imposes
 - Optimize the code in general
 - Getting the LOGMMSE algorithm working for audios with a lot of noise
+- Create a requirement.txt file for ease of use
 - Making a better documentation
 
 ## Setting up
